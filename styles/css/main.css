@@ -1,0 +1,8 @@
+body {
+  background-color: rgb(67, 143, 17);
+  color: rgb(242, 236, 248);
+}
+
+div.todo-list {
+  font-weight: bold;
+}
