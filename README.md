@@ -1,8 +1,8 @@
-## manage-todos-desktop-app
+## manage-todos-electron-app
 
 `what is it`
 
-- manage-todos-desktop-app is a desktop application built using electron js to be able to manage todos within a desktop application
+- manage-todos-electron-app is a desktop application built using electron js to be able to manage todos within a desktop application
 
 ![screenshot]()
 
